@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "publishedDate": "2024-02-07T15:35:52.203Z",
+      "title": "I Know Why The Caged Bird Sings",
+      "author": "Oprah Winfrey"
+    },
+    {
+      "publishedDate": "2024-02-07T15:35:52.203Z",
+      "title": "THE BOYS IN THE BOAT",
+      "author": "James Brown"
+    },
+    {
+      "_id": "65bbf21c6187aa67547b02c1",
+      "title": "Leave Your Mark",
+      "author": "Aliza Lichtie",
+      "publishedDate": "2024-02-01T19:20:27.254Z",
+      "__v": 0,
+      "available": false
+    },
+    {
+      "_id": "65c3a42a94ae0b8c2e75cbdd",
+      "title": "Maya Angelou",
+      "author": "Even The Stars Look Lonesome",
+      "publishedDate": "1997-01-01T00:00:00.000Z",
+      "available": true,
+      "__v": 0
+    },
+    {
+      "_id": "65c3a46f94ae0b8c2e75cbdf",
+      "title": "JAMES HERRIOT",
+      "author": "All Things Bright and Beautiful",
+      "publishedDate": "2003-01-01T00:00:00.000Z",
+      "available": true,
+      "__v": 0
+    },
+    {
+      "_id": "65c3a4e894ae0b8c2e75cbe1",
+      "title": "ANDRES RESENDEZ",
+      "author": "The OTHER SLAVERY",
+      "publishedDate": "2016-01-01T00:00:00.000Z",
+      "available": true,
+      "__v": 0
+    },
+    {
+      "_id": "65c3a55594ae0b8c2e75cbe3",
+      "title": "Sophia Spencer",
+      "author": "the BUG GIRL",
+      "publishedDate": "2020-02-10T22:00:00.000Z",
+      "available": true,
+      "__v": 0
+    },
+    {
+      "_id": "65c3a5d994ae0b8c2e75cbe5",
+      "title": "ANNE FRANK",
+      "author": "THE DIARY OF A YOUNG GIRL",
+      "publishedDate": "1947-06-24T22:00:00.000Z",
+      "available": true,
+      "__v": 0
+    },
+    {
+      "_id": "65c3a65694ae0b8c2e75cbe7",
+      "title": "Charles Reavit",
+      "author": "In the HEART of the SEA",
+      "publishedDate": "2015-12-02T22:00:00.000Z",
+      "available": true,
+      "__v": 0
+    }
+  ]
+}
